@@ -60,7 +60,7 @@ public class CirclePlay : MonoBehaviour
                 Debug.Log($"Changed to rotation: {lsDataRotate[currentRotateIndex].rotate}, scale: {lsDataRotate[currentRotateIndex].scale}");
             }
         }
-        
+        GameManager.Instance.musicController.HandleClick(GameManager.Instance.musicController.click);
         lastClickTime = Time.time;
      }
 }

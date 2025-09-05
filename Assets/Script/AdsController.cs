@@ -28,6 +28,7 @@ public class AdsController : MonoBehaviour
     void Start()
     {
         Init();
+        ShowAppOpenAds();
     }
 
     private void Update()
@@ -52,6 +53,8 @@ public class AdsController : MonoBehaviour
     {
         CreateBanner();
         LoadAOA();
+        LoadInterstitialAd();
+        LoadRewardedAd();
     }
 
     public void ShowBanner(bool isShow)

@@ -57,12 +57,10 @@ public class InputController : MonoBehaviour
                 circleCurrent = null;
 
             
-                if(GamePlayController.Instance.playerContaint.levelData.wasComplete )
-                {
-                    var temp = PlayerPrefs.GetInt("CurrentLevel",0) + 1;
-                    PlayerPrefs.SetInt("CurrentLevel",temp);
-                        Initiate.Fade("GamePlayScene", Color.black, 2f);
-                   }
+                    if(GamePlayController.Instance.playerContaint.levelData.wasComplete )
+                    {
+                        GamePlayController.Instance.playerContaint.HandleWin();
+                    }
                 
                }
                else

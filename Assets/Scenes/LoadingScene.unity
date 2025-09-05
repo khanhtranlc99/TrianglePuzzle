@@ -1510,13 +1510,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ecc023d912051948961cba46051dc20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bannerID: ca-app-pub-4667689154549040/5142291943
-  AOAID: ca-app-pub-4667689154549040/8889965268
+  bannerID: ca-app-pub-3940256099942544/6300978111
+  AOAID: ca-app-pub-3940256099942544/3419835294
   HasBanner: 0
   IsShowingAds: 0
   isLoadingAOA: 0
-  _adInterUnitId: 
-  _adRewardedUnitId: 
+  _adInterUnitId: ca-app-pub-3940256099942544/1033173712
+  _adRewardedUnitId: ca-app-pub-3940256099942544/5224354917
 --- !u!1 &1853682022
 GameObject:
   m_ObjectHideFlags: 0

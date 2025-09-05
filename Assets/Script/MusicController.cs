@@ -18,6 +18,7 @@ public class MusicController : MonoBehaviour
 
     public void HandleMusic()
     {
+        audioMusic.GetComponent<AudioSource>().clip = theme;
         audioMusic.Play();
     }
 }

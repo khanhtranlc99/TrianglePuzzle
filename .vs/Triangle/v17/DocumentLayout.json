@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectUniy\\Triangle\\Triangle\\",
+  "WorkspaceRootPath": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|d:\\projectuniy\\triangle\\triangle\\assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\playercontaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|c:\\users\\lqanh\\onedrive\\attachments\\triangle\\assets\\script\\playercontaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\circleplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circleplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\circlechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\circleplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circleplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\circlechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circlechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|D:\\ProjectUniy\\Triangle\\Triangle\\assets\\script\\circlebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circlebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,125 +50,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdsController.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\AdsController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\AdsController.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\AdsController.cs",
-              "RelativeToolTip": "Assets\\Script\\AdsController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAIAwwFgAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoadingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\LoadingScreen.cs",
+              "RelativeToolTip": "Assets\\Script\\LoadingScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T13:29:42.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T07:33:11.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:59:05.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MusicController.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\MusicController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\MusicController.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\MusicController.cs",
-              "RelativeToolTip": "Assets\\Script\\MusicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InputController.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\InputController.cs",
+              "RelativeToolTip": "Assets\\Script\\InputController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:48:04.895Z",
+              "WhenOpened": "2025-08-24T04:02:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsController.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\AdsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AdsController.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\AdsController.cs",
+              "RelativeToolTip": "Assets\\Script\\AdsController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAArwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:29:42.055Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\MusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MusicController.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\MusicController.cs",
+              "RelativeToolTip": "Assets\\Script\\MusicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:48:04.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePlayController.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GamePlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GamePlayController.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GamePlayController.cs",
+              "RelativeToolTip": "Assets\\Script\\GamePlayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:34:36.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PlayerContaint.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\PlayerContaint.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\PlayerContaint.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerContaint.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\PlayerContaint.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\PlayerContaint.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerContaint.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwDEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:43:32.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoadingScreen.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\LoadingScreen.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LoadingScreen.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\LoadingScreen.cs",
-              "RelativeToolTip": "Assets\\Script\\LoadingScreen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CirclePlay.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CirclePlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CirclePlay.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CirclePlay.cs",
+              "RelativeToolTip": "Assets\\Script\\CirclePlay.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:33:11.347Z"
+              "WhenOpened": "2025-08-24T04:00:46.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CircleChild.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CircleChild.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CircleChild.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CircleChild.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CircleChild.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CircleChild.cs",
               "RelativeToolTip": "Assets\\Script\\CircleChild.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T06:09:05.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CircleBG.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CircleBG.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CircleBG.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CircleBG.cs",
-              "RelativeToolTip": "Assets\\Script\\CircleBG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SettingPanel.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Script\\SettingPanel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T06:08:59.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InputController.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\InputController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\InputController.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\InputController.cs",
-              "RelativeToolTip": "Assets\\Script\\InputController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T04:02:57.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CirclePlay.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CirclePlay.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CirclePlay.cs",
-              "ToolTip": "D:\\ProjectUniy\\Triangle\\Triangle\\Assets\\Script\\CirclePlay.cs",
-              "RelativeToolTip": "Assets\\Script\\CirclePlay.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T04:00:46.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T04:12:59.039Z"
             }
           ]
         }
