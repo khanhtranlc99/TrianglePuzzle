@@ -382,6 +382,11 @@ public class AdsController : MonoBehaviour
     public void ShowInterstitialAd(Action callback)
     {
         evtInterDone = callback;
+        if (Application.internetReachability == NetworkReachability.NotReachable)
+        {
+            evtInterDone?.Invoke();
+            return;
+        }
         if (_interstitialAd != null && _interstitialAd.CanShowAd())
         {
             Debug.Log("Showing interstitial ad.");

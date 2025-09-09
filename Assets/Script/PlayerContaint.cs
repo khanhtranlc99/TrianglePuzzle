@@ -22,9 +22,9 @@ public class PlayerContaint : MonoBehaviour
         btnNext.onClick.AddListener(HandleNext);
         btnSetting.onClick.AddListener(HandleSetting);
         settingBox.Init();
-        if (PlayerPrefs.GetInt("CurrentLevel",0) >= lsLevelData.Count)
+      if (PlayerPrefs.GetInt("CurrentLevel",0) >= lsLevelData.Count)
       {
-        objComplete.SetActive(true);
+            objComplete.SetActive(true);
       }
       else
       {
