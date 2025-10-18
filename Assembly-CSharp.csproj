@@ -66,7 +66,9 @@
     <Compile Include="Assets\Script\LoadingScreen.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\ReporterMessageReceiver.cs" />
+    <Compile Include="Assets\Script\SimpleVibrationTest.cs" />
     <Compile Include="Assets\Script\InputController.cs" />
+    <Compile Include="Assets\Script\VibrationMng.cs" />
     <Compile Include="Assets\Script\SettingPanel.cs" />
     <Compile Include="Assets\Script\Fader.cs" />
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\MultiKeyDictionary.cs" />

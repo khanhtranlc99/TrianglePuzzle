@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\vibrationmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\vibrationmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\playercontaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|c:\\users\\lqanh\\onedrive\\attachments\\triangle\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|c:\\users\\lqanh\\onedrive\\attachments\\triangle\\assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\circleplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +51,8 @@
       "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circlechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681A98B5-B908-FC28-87F2-362411BF98D3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,62 +62,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fader.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\Fader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Fader.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\Fader.cs",
+              "RelativeToolTip": "Assets\\Script\\Fader.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:25:42.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Initiate.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\Initiate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Initiate.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\Initiate.cs",
+              "RelativeToolTip": "Assets\\Script\\Initiate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:24:43.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VibrationMng.cs",
+              "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\VibrationMng.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\VibrationMng.cs",
+              "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\VibrationMng.cs",
+              "RelativeToolTip": "Assets\\Script\\VibrationMng.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:13:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LoadingScreen.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\LoadingScreen.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\LoadingScreen.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\LoadingScreen.cs",
               "RelativeToolTip": "Assets\\Script\\LoadingScreen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:33:11.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:59:05.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T07:59:05.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "InputController.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\InputController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InputController.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\InputController.cs",
               "RelativeToolTip": "Assets\\Script\\InputController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T04:02:57.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AdsController.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\AdsController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AdsController.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\AdsController.cs",
               "RelativeToolTip": "Assets\\Script\\AdsController.cs",
-              "ViewState": "AgIAAOoAAAAAAAAAAIAwwAEBAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T13:29:42.055Z",
               "EditorCaption": ""
@@ -118,7 +162,7 @@
               "RelativeDocumentMoniker": "Assets\\Script\\MusicController.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\MusicController.cs",
               "RelativeToolTip": "Assets\\Script\\MusicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:48:04.895Z"
             },
@@ -130,38 +174,39 @@
               "RelativeDocumentMoniker": "Assets\\Script\\GamePlayController.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\GamePlayController.cs",
               "RelativeToolTip": "Assets\\Script\\GamePlayController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T02:34:36.075Z"
+              "WhenOpened": "2025-09-04T02:34:36.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerContaint.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\PlayerContaint.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerContaint.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\PlayerContaint.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerContaint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwC4AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:43:32.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CirclePlay.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CirclePlay.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CirclePlay.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CirclePlay.cs",
               "RelativeToolTip": "Assets\\Script\\CirclePlay.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwCkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T04:00:46.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CircleChild.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\CircleChild.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CircleChild.cs",
@@ -173,15 +218,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SettingPanel.cs",
               "ToolTip": "C:\\Users\\lqanh\\OneDrive\\Attachments\\Triangle\\Assets\\Script\\SettingPanel.cs",
               "RelativeToolTip": "Assets\\Script\\SettingPanel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:12:59.039Z"
+              "WhenOpened": "2025-09-04T04:12:59.039Z",
+              "EditorCaption": ""
             }
           ]
         }

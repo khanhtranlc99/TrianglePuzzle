@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class InputController : MonoBehaviour
@@ -61,8 +62,8 @@ public class InputController : MonoBehaviour
                     {
                         GamePlayController.Instance.playerContaint.HandleWin();
                     }
-                
-               }
+                    GamePlayController.Instance.playerContaint.settingBox.TryVibrate();
+                }
                else
                {
                   

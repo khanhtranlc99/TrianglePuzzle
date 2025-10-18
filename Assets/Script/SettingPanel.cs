@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class SettingPanel : MonoBehaviour
 {
     public Slider sliderMusic;
@@ -19,7 +20,6 @@ public class SettingPanel : MonoBehaviour
         float music = PlayerPrefs.GetFloat(KEY_MUSIC, 0.8f);
         float sfx = PlayerPrefs.GetFloat(KEY_SFX, 0.8f);
         float vibe = PlayerPrefs.GetFloat(KEY_VIBE, 1f);
-
         sliderMusic.SetValueWithoutNotify(music);
         sliderSfx.SetValueWithoutNotify(sfx);
         sliderVib.SetValueWithoutNotify(vibe);
@@ -52,11 +52,21 @@ public class SettingPanel : MonoBehaviour
         GameManager.Instance.musicController.audioSouceSfx.volume = v;
     }
 
-    void TryVibrate()
+    public void TryVibrate()
     {
-        if (PlayerPrefs.GetFloat(KEY_VIBE, 1f) > 0.5f)
+        // Đảm bảo đã bật trong setting
+        float vibeSetting = PlayerPrefs.GetFloat(KEY_VIBE, 1f);
+        Debug.Log($"TryVibrate được gọi - Vibe setting: {vibeSetting}");
+        
+        if (vibeSetting > 0.5f)
         {
-            Handheld.Vibrate();
+            Debug.Log("Vibration được bật, gọi VibrationMng.Vibrate()");
+            VibrationMng.Vibrate();
+        }
+        else
+        {
+            Debug.Log("Vibration bị tắt trong settings");
         }
     }
+
 }
